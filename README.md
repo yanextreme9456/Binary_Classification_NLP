@@ -6,21 +6,17 @@ The neural network is trained with different architectures and optimizers, and i
 
 🚀 Features
 
-Loads and preprocesses the IMDB dataset.
-One-hot encodes the input data for neural network processing.
-Builds and trains different neural network models for binary classification.
-Visualizes training and validation loss/accuracy.
-Evaluates the model on test data.
-Generates predictions (probabilities of positive reviews).
-Tests different architectures and loss functions for performance improvement.
+-Loads and preprocesses the IMDB dataset
+-One-hot encodes the input data for neural network processing
+-Builds and trains different neural network models for binary classification
+-Visualizes training and validation loss/accuracy
+-Evaluates the model on test data
+-Generates predictions (probabilities of positive reviews)
+-Tests different architectures and loss functions for performance improvement
 
 🛠️ Technologies Used
 
-Python.
-Keras.
-Tensorflow.
-NumPy.
-Matplotlib.
+Python, Keras, Tensorflow, NumPy, Matplotlib.
 
 ⚙️ How It Works
 
